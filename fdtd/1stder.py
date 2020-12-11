@@ -5,10 +5,11 @@
 # MIT license
 #
 
-
+#
 #    Calculation of numerical first derivative
 #    Comparison with analytical solution
 #    Dependence of error on space increment
+#
 
 import numpy as np
 from math import *
