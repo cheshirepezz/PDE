@@ -1,6 +1,6 @@
 # Partial Differential Equation's Methods
 
-1) Finite Difference Time Domain method
+1) Finite Difference Time Domain method:
     * [First order derivative](https://github.com/cheshirepezz/PDE/blob/main/fdtd/fd_first_derivative_solution.ipynb)
     * [Second order derivative]()
     * [Taylor operator](https://github.com/cheshirepezz/PDE/blob/main/fdtd/fd_taylor_operators.ipynb)
@@ -14,5 +14,15 @@
     * [Advection eq. 1D](https://github.com/cheshirepezz/PDE/blob/main/fdtd/fd_advection_1d_solution.ipynb)
     * [Advection diffusion reaction](https://github.com/cheshirepezz/PDE/blob/main/fdtd/fd_advection_diffusion_reaction_solution.ipynb)
     * [Seismometer](https://github.com/cheshirepezz/PDE/blob/main/fdtd/fd_seismometer_solution.ipynb)
+2) Pseudospectral method:  
+    * []()
+3) Finite Element method: 
+    * []()
+4) Spectral Element method:  
+    * []()
+5) Finite Volume method:
+    * []()
+6) Discontinuous Galerkin method:
+    * []()
     
     
