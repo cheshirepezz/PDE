@@ -1,4 +1,4 @@
-# Partial Differential Equation's Methods
+# PDE Numerical Methods
 
 1) Finite Difference Time Domain method:
     * [First order derivative](https://github.com/cheshirepezz/PDE/blob/main/fdtd/fd_first_derivative_solution.ipynb)
