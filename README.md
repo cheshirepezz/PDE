@@ -1,2 +1,5 @@
-# PDE
-🌊 Numerical methods to solve Partial Differential Equations
+# Partial Differential Equation's Methods
+
+1) Finite Difference Time Domain method
+    * First order derivative
+    
